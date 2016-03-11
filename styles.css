@@ -1,0 +1,20 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background: #fff;
+    color: #000;
+    height: 100%;
+}
+
+body {
+    background: url('https://cdn.ypcs.fi/pub/2016/03/ms4.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: auto 90%;
+}
+
+#links {
+    position: absolute;
+    top: 1em;
+    left: 1em;
+}
